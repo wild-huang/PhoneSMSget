@@ -2,10 +2,16 @@
 
 > 这是一个高中生用一晚上和一早上用opencode和Android Studio折腾出来的小玩意
 
-#功能&特性
+# 功能&特性
 
 1.使用material design 3
 
 2.查询时会发送“dx1091”到运营商，之后自动整理信息并且显示
 
 3.有OLED专属深色模式（？
+
+# 效果展示
+![这是一张图片](https://github.com/wild-huang/PhoneSMSget/blob/main/show.jpg "你瞅啥")
+
+---
+                    Powered By OpenCode&Xiaomi MIMO
